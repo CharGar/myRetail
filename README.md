@@ -44,4 +44,4 @@ If nodemon isn't installed type
 
 ![imgae disc](pic.png?raw=true "Title")
 
-A mongo db will be provided similar to the one above in order to test and demonstrate completeness.
+A mongo db will be provided similar to the one above in order to test and demonstrate completeness.  
