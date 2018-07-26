@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5b51148998da561d3dc89374"},"id":{"$numberInt":"13860424"},"current_price":{"value":{"$numberDouble":"13.49"},"currency_code":"USD"}}
+{"_id":{"$oid":"5b5156cdf6559e2001d1fbe8"},"id":{"$numberInt":"13860429"},"current_price":{"value":{"$numberDouble":"12.99"},"currency_code":"USD"}}
+{"_id":{"$oid":"5b515b89f6559e2001d1fbe9"},"id":{"$numberInt":"13860425"},"current_price":{"value":{"$numberDouble":"6.95"},"currency_code":"USD"}}
+{"_id":{"$oid":"5b515c17f6559e2001d1fbea"},"id":{"$numberInt":"13860424"},"current_price":{"value":{"$numberDouble":"7.73"},"currency_code":"USD"}}
+{"_id":{"$oid":"5b522a98f6559e2001d1fbeb"},"id":{"$numberInt":"13860421"},"current_price":{"value":{"$numberDouble":"9.99"},"currency_code":"USD"}}
+{"_id":{"$oid":"5b57c46aee1fc605bc4ad1db"},"id":{"$numberInt":"13860428"},"current_price":{"value":{"$numberDouble":"91.92"},"currency_code":"USD"}}
